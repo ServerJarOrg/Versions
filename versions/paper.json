@@ -2,128 +2,117 @@
   "versions": [
     {
       "minecraftVersion": "1.21",
+      "buildNumber": "127",
       "releaseDate": "2024-06-13",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/latest/downloads/paper-1.21-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/127/downloads/paper-1.21-127.jar"
     },
     {
       "minecraftVersion": "1.20.6",
+      "buildNumber": "148",
       "releaseDate": "2024-04-23",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/latest/downloads/paper-1.20.6-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/148/downloads/paper-1.20.6-148.jar"
     },
     {
       "minecraftVersion": "1.20.4",
+      "buildNumber": "364",
       "releaseDate": "2023-12-05",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/latest/downloads/paper-1.20.4-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/364/downloads/paper-1.20.4-364.jar"
     },
     {
       "minecraftVersion": "1.20.2",
+      "buildNumber": "280",
       "releaseDate": "2023-09-20",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20.2/builds/latest/downloads/paper-1.20.2-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20.2/builds/280/downloads/paper-1.20.2-280.jar"
     },
     {
       "minecraftVersion": "1.20.1",
+      "buildNumber": "196",
       "releaseDate": "2023-06-07",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20.1/builds/latest/downloads/paper-1.20.1-latest.jar"
-    },
-    {
-      "minecraftVersion": "1.20",
-      "releaseDate": "2023-06-07",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20/builds/latest/downloads/paper-1.20-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.20.1/builds/196/downloads/paper-1.20.1-196.jar"
     },
     {
       "minecraftVersion": "1.19.4",
+      "buildNumber": "550",
       "releaseDate": "2023-03-14",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/latest/downloads/paper-1.19.4-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/550/downloads/paper-1.19.4-550.jar"
     },
     {
       "minecraftVersion": "1.19.3",
+      "buildNumber": "448",
       "releaseDate": "2022-12-07",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.19.3/builds/latest/downloads/paper-1.19.3-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.19.3/builds/448/downloads/paper-1.19.3-448.jar"
     },
     {
       "minecraftVersion": "1.19.2",
+      "buildNumber": "307",
       "releaseDate": "2022-08-05",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/latest/downloads/paper-1.19.2-latest.jar"
-    },
-    {
-      "minecraftVersion": "1.19.1",
-      "releaseDate": "2022-07-27",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.19.1/builds/latest/downloads/paper-1.19.1-latest.jar"
-    },
-    {
-      "minecraftVersion": "1.19",
-      "releaseDate": "2022-06-07",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.19/builds/latest/downloads/paper-1.19-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar"
     },
     {
       "minecraftVersion": "1.18.2",
+      "buildNumber": "388",
       "releaseDate": "2022-02-28",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/latest/downloads/paper-1.18.2-latest.jar"
-    },
-    {
-      "minecraftVersion": "1.18.1",
-      "releaseDate": "2021-12-10",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.18.1/builds/latest/downloads/paper-1.18.1-latest.jar"
-    },
-    {
-      "minecraftVersion": "1.18",
-      "releaseDate": "2021-11-30",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.18/builds/latest/downloads/paper-1.18-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/388/downloads/paper-1.18.2-388.jar"
     },
     {
       "minecraftVersion": "1.17.1",
+      "buildNumber": "411",
       "releaseDate": "2021-07-06",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.17.1/builds/latest/downloads/paper-1.17.1-latest.jar"
-    },
-    {
-      "minecraftVersion": "1.17",
-      "releaseDate": "2021-06-08",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.17/builds/latest/downloads/paper-1.17-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.17.1/builds/411/downloads/paper-1.17.1-411.jar"
     },
     {
       "minecraftVersion": "1.16.5",
+      "buildNumber": "794",
       "releaseDate": "2021-01-14",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.16.5/builds/latest/downloads/paper-1.16.5-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.16.5/builds/794/downloads/paper-1.16.5-794.jar"
     },
     {
       "minecraftVersion": "1.15.2",
+      "buildNumber": "393",
       "releaseDate": "2020-01-21",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.15.2/builds/latest/downloads/paper-1.15.2-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.15.2/builds/393/downloads/paper-1.15.2-393.jar"
     },
     {
       "minecraftVersion": "1.14.4",
+      "buildNumber": "245",
       "releaseDate": "2019-07-19",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.14.4/builds/latest/downloads/paper-1.14.4-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.14.4/builds/245/downloads/paper-1.14.4-245.jar"
     },
     {
       "minecraftVersion": "1.13.2",
+      "buildNumber": "657",
       "releaseDate": "2018-10-22",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.13.2/builds/latest/downloads/paper-1.13.2-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.13.2/builds/657/downloads/paper-1.13.2-657.jar"
     },
     {
       "minecraftVersion": "1.12.2",
+      "buildNumber": "1620",
       "releaseDate": "2017-09-18",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.12.2/builds/latest/downloads/paper-1.12.2-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.12.2/builds/1620/downloads/paper-1.12.2-1620.jar"
     },
     {
       "minecraftVersion": "1.11.2",
+      "buildNumber": "1106",
       "releaseDate": "2016-12-21",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.11.2/builds/latest/downloads/paper-1.11.2-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.11.2/builds/1106/downloads/paper-1.11.2-1106.jar"
     },
     {
       "minecraftVersion": "1.10.2",
+      "buildNumber": "918",
       "releaseDate": "2016-06-23",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.10.2/builds/latest/downloads/paper-1.10.2-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.10.2/builds/918/downloads/paper-1.10.2-918.jar"
     },
     {
       "minecraftVersion": "1.9.4",
+      "buildNumber": "775",
       "releaseDate": "2016-05-10",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.9.4/builds/latest/downloads/paper-1.9.4-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.9.4/builds/775/downloads/paper-1.9.4-775.jar"
     },
     {
       "minecraftVersion": "1.8.8",
+      "buildNumber": "445",
       "releaseDate": "2015-07-27",
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.8.8/builds/latest/downloads/paper-1.8.8-latest.jar"
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.8.8/builds/445/downloads/paper-1.8.8-445.jar"
     }
   ]
 }
