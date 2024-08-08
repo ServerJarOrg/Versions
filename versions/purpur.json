@@ -1,0 +1,119 @@
+{
+  "versions": [
+    {
+      "minecraftVersion": "1.21",
+      "releaseDate": "2024-06-13",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.21/latest/download"
+    },
+    {
+      "minecraftVersion": "1.20.6",
+      "releaseDate": "2024-04-23",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.20.6/latest/download"
+    },
+    {
+      "minecraftVersion": "1.20.4",
+      "releaseDate": "2023-12-05",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.20.4/latest/download"
+    },
+    {
+      "minecraftVersion": "1.20.2",
+      "releaseDate": "2023-09-20",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.20.2/latest/download"
+    },
+    {
+      "minecraftVersion": "1.20.1",
+      "releaseDate": "2023-06-07",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.20.1/latest/download"
+    },
+    {
+      "minecraftVersion": "1.20",
+      "releaseDate": "2023-06-07",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.20/latest/download"
+    },
+    {
+      "minecraftVersion": "1.19.4",
+      "releaseDate": "2023-03-14",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.19.4/latest/download"
+    },
+    {
+      "minecraftVersion": "1.19.3",
+      "releaseDate": "2022-12-07",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.19.3/latest/download"
+    },
+    {
+      "minecraftVersion": "1.19.2",
+      "releaseDate": "2022-08-05",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.19.2/latest/download"
+    },
+    {
+      "minecraftVersion": "1.19.1",
+      "releaseDate": "2022-07-27",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.19.1/latest/download"
+    },
+    {
+      "minecraftVersion": "1.19",
+      "releaseDate": "2022-06-07",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.19/latest/download"
+    },
+    {
+      "minecraftVersion": "1.18.2",
+      "releaseDate": "2022-02-28",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.18.2/latest/download"
+    },
+    {
+      "minecraftVersion": "1.18.1",
+      "releaseDate": "2021-12-10",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.18.1/latest/download"
+    },
+    {
+      "minecraftVersion": "1.18",
+      "releaseDate": "2021-11-30",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.18/latest/download"
+    },
+    {
+      "minecraftVersion": "1.17.1",
+      "releaseDate": "2021-07-06",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.17.1/latest/download"
+    },
+    {
+      "minecraftVersion": "1.17",
+      "releaseDate": "2021-06-08",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.17/latest/download"
+    },
+    {
+      "minecraftVersion": "1.16.5",
+      "releaseDate": "2021-01-14",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.16.5/latest/download"
+    },
+    {
+      "minecraftVersion": "1.16.4",
+      "releaseDate": "2020-11-02",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.16.4/latest/download"
+    },
+    {
+      "minecraftVersion": "1.16.3",
+      "releaseDate": "2020-09-10",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.16.3/latest/download"
+    },
+    {
+      "minecraftVersion": "1.16.2",
+      "releaseDate": "2020-08-11",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.16.2/latest/download"
+    },
+    {
+      "minecraftVersion": "1.16.1",
+      "releaseDate": "2020-06-24",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.16.1/latest/download"
+    },
+    {
+      "minecraftVersion": "1.15.2",
+      "releaseDate": "2020-01-21",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.15.2/latest/download"
+    },
+    {
+      "minecraftVersion": "1.14.4",
+      "releaseDate": "2019-07-19",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.14.4/latest/download"
+    }
+  ]
+}
