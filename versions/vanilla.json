@@ -1,0 +1,134 @@
+{
+  "versions": [
+    {
+      "minecraftVersion": "1.21",
+      "releaseDate": "2024-06-13",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar"
+    },
+    {
+      "minecraftVersion": "1.20.6",
+      "releaseDate": "2024-04-23",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/145ff0858209bcfc164859ba735d4199aafa1eea/server.jar"
+    },
+    {
+      "minecraftVersion": "1.20.4",
+      "releaseDate": "2023-12-07",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/8dd1a28015f51b1803213892b50b7b4fc76e594d/server.jar"
+    },
+    {
+      "minecraftVersion": "1.20.2",
+      "releaseDate": "2023-09-21",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/5b868151bd02b41319f54c8d4061b8cae84e665c/server.jar"
+    },
+    {
+      "minecraftVersion": "1.20.1",
+      "releaseDate": "2023-06-07",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/84194a2f286ef7c14ed7ce0090dba59902951553/server.jar"
+    },
+    {
+      "minecraftVersion": "1.20",
+      "releaseDate": "2023-06-07",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/15c777e2cfe0556eef100b8b4f8f7dc9e54d5d85/server.jar"
+    },
+    {
+      "minecraftVersion": "1.19.4",
+      "releaseDate": "2023-03-14",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/8f3112a1049751cc472ec13da80b181a1eba6efd/server.jar"
+    },
+    {
+      "minecraftVersion": "1.19.3",
+      "releaseDate": "2022-12-07",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/c9df48efed58511cdd0213c56b9013a7b5c9ac1f/server.jar"
+    },
+    {
+      "minecraftVersion": "1.19.2",
+      "releaseDate": "2022-08-05",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/f69c284232d7c7580bd89a5a4931c3581eae1378/server.jar"
+    },
+    {
+      "minecraftVersion": "1.19.1",
+      "releaseDate": "2022-07-27",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/8399e1211e95faa421c1507b322dbeae86d604df/server.jar"
+    },
+    {
+      "minecraftVersion": "1.19",
+      "releaseDate": "2022-06-07",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/e00c4052dac1d59a1188b2aa9d5a87113aaf1122/server.jar"
+    },
+    {
+      "minecraftVersion": "1.18.2",
+      "releaseDate": "2022-02-28",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/c8f83c5655308435b3dcf03c06d9fe8740a77469/server.jar"
+    },
+    {
+      "minecraftVersion": "1.18.1",
+      "releaseDate": "2021-12-10",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/125e5adf40c659fd3bce3e66e67a16bb49ecc1b9/server.jar"
+    },
+    {
+      "minecraftVersion": "1.18",
+      "releaseDate": "2021-11-30",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/3cf24a8694aca6267883b17d934efacc5e44440d/server.jar"
+    },
+    {
+      "minecraftVersion": "1.17.1",
+      "releaseDate": "2021-07-06",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar"
+    },
+    {
+      "minecraftVersion": "1.17",
+      "releaseDate": "2021-06-08",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar"
+    },
+    {
+      "minecraftVersion": "1.16.5",
+      "releaseDate": "2021-01-14",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar"
+    },
+    {
+      "minecraftVersion": "1.15.2",
+      "releaseDate": "2020-01-21",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c636b07/server.jar"
+    },
+    {
+      "minecraftVersion": "1.14.4",
+      "releaseDate": "2019-07-19",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/3dc3d84a581f14691199cf6831b71ed1296a9fdf/server.jar"
+    },
+    {
+      "minecraftVersion": "1.13.2",
+      "releaseDate": "2018-10-22",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/3737db93722a9e39eeada7c27e7aca28b144ffa7/server.jar"
+    },
+    {
+      "minecraftVersion": "1.12.2",
+      "releaseDate": "2017-09-18",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar"
+    },
+    {
+      "minecraftVersion": "1.11.2",
+      "releaseDate": "2016-12-21",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/f00c294a1576e03fddcac777c3cf4c7d404c4ba4/server.jar"
+    },
+    {
+      "minecraftVersion": "1.10.2",
+      "releaseDate": "2016-06-23",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/3d501b23df53c548254f5e3f66492d178a48db63/server.jar"
+    },
+    {
+      "minecraftVersion": "1.9.4",
+      "releaseDate": "2016-05-10",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/edbb7b1758af33d365bf835eb9d13de005b1e274/server.jar"
+    },
+    {
+      "minecraftVersion": "1.8.8",
+      "releaseDate": "2015-07-27",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/5fafba3f58c40dc51b5c3ca72a98f62dfdae1db7/server.jar"
+    },
+    {
+      "minecraftVersion": "1.7.10",
+      "releaseDate": "2014-05-14",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/952438ac4e01b4d115c5fc38f891710c4941df29/server.jar"
+    }
+  ]
+}
