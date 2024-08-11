@@ -1,7 +1,13 @@
 {
   "versions": [
     {
-      "minecraftVersion": "1.21",
+      "minecraftVersion": "1.21.1",
+      "buildNumber": "5",
+      "releaseDate": "2024-08-10",
+      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/5/downloads/paper-1.21.1-5.jar"
+    },
+    {
+      "minecraftVersion": "1.21.1",
       "buildNumber": "127",
       "releaseDate": "2024-06-13",
       "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/127/downloads/paper-1.21-127.jar"
