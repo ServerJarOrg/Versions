@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "minecraftVersion": "1.21.1",
+      "releaseDate": "2024-08-10",
+      "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.21.1/latest/download"
+    },
+    {
       "minecraftVersion": "1.21",
       "releaseDate": "2024-06-13",
       "downloadUrl": "https://api.purpurmc.org/v2/purpur/1.21/latest/download"
