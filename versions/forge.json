@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "minecraftVersion": "1.21",
+      "minecraftVersion": "1.21.1",
       "releaseDate": "2024-08-15",
       "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.1-52.0.3/forge-1.21.1-52.0.3-installer.jar"
     },
