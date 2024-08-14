@@ -1,0 +1,82 @@
+{
+  "versions": [
+    {
+      "minecraftVersion": "1.21.1",
+      "velocityVersion": "3.2.0-SNAPSHOT",
+      "releaseDate": "2024-08-13",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/415/downloads/velocity-3.3.0-SNAPSHOT-415.jar"
+    },
+    {
+      "minecraftVersion": "1.21",
+      "velocityVersion": "3.2.0-SNAPSHOT",
+      "releaseDate": "2024-06-13",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/415/downloads/velocity-3.3.0-SNAPSHOT-415.jar"
+    },
+    {
+      "minecraftVersion": "1.20.6",
+      "velocityVersion": "3.2.0-SNAPSHOT",
+      "releaseDate": "2024-04-14",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/415/downloads/velocity-3.3.0-SNAPSHOT-415.jar"
+    },
+    {
+      "minecraftVersion": "1.20.2",
+      "velocityVersion": "3.2.0-SNAPSHOT",
+      "releaseDate": "2023-09-21",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.2.0-SNAPSHOT/builds/249/downloads/velocity-3.2.0-SNAPSHOT-249.jar"
+    },
+    {
+      "minecraftVersion": "1.20.1",
+      "velocityVersion": "3.2.0-SNAPSHOT",
+      "releaseDate": "2023-06-15",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.2.0-SNAPSHOT/builds/238/downloads/velocity-3.2.0-SNAPSHOT-238.jar"
+    },
+    {
+      "minecraftVersion": "1.19.4",
+      "velocityVersion": "3.1.2-SNAPSHOT",
+      "releaseDate": "2023-03-15",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.1.2-SNAPSHOT/builds/211/downloads/velocity-3.1.2-SNAPSHOT-211.jar"
+    },
+    {
+      "minecraftVersion": "1.19.3",
+      "velocityVersion": "3.1.2-SNAPSHOT",
+      "releaseDate": "2022-12-07",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.1.2-SNAPSHOT/builds/195/downloads/velocity-3.1.2-SNAPSHOT-195.jar"
+    },
+    {
+      "minecraftVersion": "1.19.2",
+      "velocityVersion": "3.1.1",
+      "releaseDate": "2022-08-06",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.1.1/builds/98/downloads/velocity-3.1.1-98.jar"
+    },
+    {
+      "minecraftVersion": "1.19",
+      "velocityVersion": "3.1.0",
+      "releaseDate": "2022-06-08",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.1.0/builds/88/downloads/velocity-3.1.0-88.jar"
+    },
+    {
+      "minecraftVersion": "1.18.2",
+      "velocityVersion": "3.0.1",
+      "releaseDate": "2022-03-02",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.0.1/builds/78/downloads/velocity-3.0.1-78.jar"
+    },
+    {
+      "minecraftVersion": "1.17.1",
+      "velocityVersion": "3.0.0",
+      "releaseDate": "2021-07-07",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.0.0/builds/67/downloads/velocity-3.0.0-67.jar"
+    },
+    {
+      "minecraftVersion": "1.16.5",
+      "velocityVersion": "1.1.9",
+      "releaseDate": "2021-05-20",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/1.1.9/builds/63/downloads/velocity-1.1.9-63.jar"
+    },
+    {
+      "minecraftVersion": "1.15.2",
+      "velocityVersion": "1.1.0",
+      "releaseDate": "2020-05-02",
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/1.1.0/builds/46/downloads/velocity-1.1.0-46.jar"
+    }
+  ]
+}
