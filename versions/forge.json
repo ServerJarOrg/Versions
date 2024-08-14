@@ -1,0 +1,110 @@
+{
+  "versions": [
+    {
+      "minecraftVersion": "1.21",
+      "releaseDate": "2024-08-15",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.1-52.0.3/forge-1.21.1-52.0.3-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.20.6",
+      "releaseDate": "2024-08-15",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.6-50.1.0/forge-1.20.6-50.1.0-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.20.1",
+      "forgeVersion": "47.2.0",
+      "releaseDate": "2023-08-25",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.19.4",
+      "forgeVersion": "45.1.0",
+      "releaseDate": "2023-05-15",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.4-45.1.0/forge-1.19.4-45.1.0-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.19.3",
+      "forgeVersion": "44.1.0",
+      "releaseDate": "2023-01-25",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.3-44.1.0/forge-1.19.3-44.1.0-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.19.2",
+      "forgeVersion": "43.2.0",
+      "releaseDate": "2022-10-18",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.18.2",
+      "forgeVersion": "40.2.0",
+      "releaseDate": "2022-07-22",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.2.0/forge-1.18.2-40.2.0-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.17.1",
+      "forgeVersion": "37.1.1",
+      "releaseDate": "2021-12-10",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.16.5",
+      "forgeVersion": "36.2.39",
+      "releaseDate": "2022-01-22",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.15.2",
+      "forgeVersion": "31.2.57",
+      "releaseDate": "2021-07-16",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.15.2-31.2.57/forge-1.15.2-31.2.57-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.14.4",
+      "forgeVersion": "28.2.26",
+      "releaseDate": "2021-03-10",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.14.4-28.2.26/forge-1.14.4-28.2.26-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.13.2",
+      "forgeVersion": "25.0.223",
+      "releaseDate": "2020-05-13",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.13.2-25.0.223/forge-1.13.2-25.0.223-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.12.2",
+      "forgeVersion": "14.23.5.2860",
+      "releaseDate": "2021-03-07",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.11.2",
+      "forgeVersion": "13.20.1.2588",
+      "releaseDate": "2019-05-01",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.11.2-13.20.1.2588/forge-1.11.2-13.20.1.2588-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.10.2",
+      "forgeVersion": "12.18.3.2511",
+      "releaseDate": "2019-04-30",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.10.2-12.18.3.2511/forge-1.10.2-12.18.3.2511-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.9.4",
+      "forgeVersion": "12.17.0.2317",
+      "releaseDate": "2019-04-30",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.9.4-12.17.0.2317-1.9.4/forge-1.9.4-12.17.0.2317-1.9.4-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.8.9",
+      "forgeVersion": "11.15.1.2318",
+      "releaseDate": "2019-04-30",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar"
+    },
+    {
+      "minecraftVersion": "1.7.10",
+      "forgeVersion": "10.13.4.1614",
+      "releaseDate": "2019-04-30",
+      "downloadUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar"
+    }
+  ]
+}
