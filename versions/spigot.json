@@ -1,9 +1,14 @@
 {
   "versions": [
     {
+      "minecraftVersion": "1.21.1",
+      "releaseDate": "2024-08-14",
+      "downloadUrl": "https://github.com/BaldGang/spigot-build/releases/latest/download/spigot-1.21.1.jar"
+    },
+    {
       "minecraftVersion": "1.21",
       "releaseDate": "2024-06-13",
-      "downloadUrl": "https://github.com/BaldGang/spigot-build/releases/latest/download/spigot-1.21.1.jar"
+      "downloadUrl": "https://github.com/BaldGang/spigot-build/releases/latest/download/spigot-1.21.jar"
     },
     {
       "minecraftVersion": "1.20.4",
@@ -89,16 +94,6 @@
       "minecraftVersion": "1.8.8",
       "releaseDate": "2015-07-27",
       "downloadUrl": "https://github.com/BaldGang/spigot-build/releases/latest/download/spigot-1.8.8.jar"
-    },
-    {
-      "minecraftVersion": "1.7.10",
-      "releaseDate": "2014-05-14",
-      "downloadUrl": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.7.10.jar"
-    },
-    {
-      "minecraftVersion": "1.7.2",
-      "releaseDate": "2013-10-25",
-      "downloadUrl": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.7.2.jar"
     }
   ]
 }
