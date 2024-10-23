@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "minecraftVersion": "1.21.3",
+      "releaseDate": "2024-10-23",
+      "downloadUrl": "https://www.dropbox.com/scl/fi/rmf960zb1i4gkbdfegwvp/spigot-1.21.3.jar?rlkey=7coo0zv2fux1gtmvwougrrh7r&st=up29maz0&dl=1"  
+    },
+    {
       "minecraftVersion": "1.21.2",
       "releaseDate": "2024-10-22",
       "downloadUrl": "https://www.dropbox.com/scl/fi/y6noj5r1osp1ml4nq3qq6/spigot-1.21.2.jar?rlkey=6r8c5dlfo9zvy0w2y317bevyq&st=q1e7rxt7&dl=1"  
