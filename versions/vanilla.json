@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "minecraftVersion": "1.21.3",
+      "releaseDate": "2024-10-23",
+      "downloadUrl": "https://piston-data.mojang.com/v1/objects/45810d238246d90e811d896f87b14695b7fb6839/server.jar"
+    },
+    {
       "minecraftVersion": "1.21.2",
       "releaseDate": "2024-10-22",
       "downloadUrl": "https://piston-data.mojang.com/v1/objects/7bf95409b0d9b5388bfea3704ec92012d273c14c/server.jar"
