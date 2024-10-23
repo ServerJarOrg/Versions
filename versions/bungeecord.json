@@ -1,10 +1,16 @@
 {
   "versions": [
     {
+      "minecraftVersion": "1.21.3",
+      "buildNumber": "1818",
+      "releaseDate": "2024-10-23",
+      "downloadUrl": "https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar"
+    },
+    {
       "minecraftVersion": "1.21.2",
       "buildNumber": "1818",
       "releaseDate": "2024-10-22",
-      "downloadUrl": "https://ci.md-5.net/job/BungeeCord/1881/artifact/bootstrap/target/BungeeCord.jar"
+      "downloadUrl": "https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar"
     },
     {
       "minecraftVersion": "1.21.1",
